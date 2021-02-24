@@ -41,10 +41,10 @@ echo  $green"H            H"
 echo $green"==========================================="
 echo $white"                  MENU                     "
 echo $green"============================================="
-echo $red"[1].DDOS ATTACK.   #•⊱•Mrlinkerrorsystem"
-echo $red"[2].EXIT TOOL.     #    Selamat Menggunakan"
+echo $red"[1].DDOS ATTACK.   #UGH"
+echo $red"[2].EXIT TOOL.     #UGH"
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱•Mrlinkerrorsystem"
+echo $white "╭─"$yellow"Pyae Sone Hmoo"
 read -p " ╰─> " pil
 
 #DDOS
