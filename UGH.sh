@@ -10,41 +10,41 @@ yellow='\033[33;1m'
 clear
 toilet -f standard "UGH" -F gay
 echo
-echo $green"=========================================="
-echo $red"DDoS ATTACK TOOL  By UGH"
-echo $cyan"U                U"
-echo $cyan"U                U"
-echo $cyan"U                U"
-echo $cyan"U                U"
-echo $cyan"U                U"
-echo $cyan"U                U"
-echo $cyan"U                U"
-echo $cyan"       UUUU"
+echo "=========================================="
+echo "DDoS ATTACK TOOL  By UGH"
+echo "U                U"
+echo "U                U"
+echo "U                U"
+echo "U                U"
+echo "U                U"
+echo "U                U"
+echo "U                U"
+echo "       UUUU"
 
-echo $blue"    GGGG"
-echo $blue"G                G"
-echo $blue"G"
-echo $blue"G    GGG"
-echo $blue"G                G"
-echo $blue"G                G"
- echo $blue"   GGGG"
+echo "    GGGG"
+echo "G                G"
+echo "G"
+echo "G    GGG"
+echo "G                G"
+echo "G                G"
+ echo "   GGGG"
 
-echo $green"H            H"
-echo $green"H            H"
-echo $green"H            H"
-echo $green"HHHHH"
-echo $green"H            H"
-echo $green"H            H"
-echo  $green"H            H"
+echo "H            H"
+echo "H            H"
+echo "H            H"
+echo "HHHHHHHHHHHHHH"
+echo "H            H"
+echo "H            H"
+echo "H            H"
 
 
-echo $green"==========================================="
-echo $white"                  MENU                     "
-echo $green"============================================="
-echo $red"[1].DDOS ATTACK.   #UGH"
-echo $red"[2].EXIT TOOL.     #UGH"
-echo $green"============================================="
-echo $white "╭─"$yellow"Pyae Sone Hmoo"
+echo "==========================================="
+echo "                  MENU                     "
+echo "============================================="
+echo "[1].DDOS ATTACK.   #UGH"
+echo "[2].EXIT TOOL.     #UGH"
+echo "============================================="
+echo  "╭─""Pyae Sone Hmoo"
 read -p " ╰─> " pil
 
 #DDOS
@@ -54,14 +54,14 @@ then
 clear
 toilet -f slant "LIST DDOS" -F metal
 echo
-echo $green"============================================="
-echo $yellow"[1].LOIC"
-echo $yellow"[2].AMNESIA"
-echo $yellow"[3].PING OF DEADHT"
-echo $yellow"[4].POF ARMAGEDON LEVEL"
-echo $yellow"[5].LORIS"
-echo $green"============================================="
-echo $white "╭─"$yellow"UHG"
+echo "============================================="
+echo "[1].LOIC"
+echo "[2].AMNESIA"
+echo "[3].PING OF DEADHT"
+echo "[4].POF ARMAGEDON LEVEL"
+echo "[5].LORIS"
+echo "============================================="
+echo  "╭─""UHG"
 read -p " ╰─> " ddos
 fi
 
@@ -105,14 +105,14 @@ then
 clear
 toilet -f slant "LIST DOS" -F metal
 echo
-echo $green"============================================="
-echo $yellow"[1].WIN(TERMUX)"
-echo $yellow"[2].SUMFR(PC)"
-echo $yellow"[3].UFOSYN(PC)"
-echo $yellow"[4].XMAS(PC)"
-echo $yellow"[5].ANDROMEDA(TERMUX)"
-echo $green"============================================="
-echo $white "╭─"$yellow"By UGH"
+echo "============================================="
+echo "[1].WIN(TERMUX)"
+echo "[2].SUMFR(PC)"
+echo "[3].UFOSYN(PC)"
+echo "[4].XMAS(PC)"
+echo "[5].ANDROMEDA(TERMUX)"
+echo "============================================="
+echo  "╭─""By UGH"
 read -p " ╰─> " dos
 fi
 
